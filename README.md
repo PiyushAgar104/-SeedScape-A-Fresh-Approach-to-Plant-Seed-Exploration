@@ -1,0 +1,2 @@
+# -SeedScape-A-Fresh-Approach-to-Plant-Seed-Exploration
+I’ve been working on a concept website called SeedScape, focused on showcasing multiple plant seeds with smooth swipe interactions, flowing animations, and a clean UI experience. The goal is simple:  to create a space where users can explore different seeds, understand The design focuses on:  • Swipe-based navigation for seamless seed browsing 
